@@ -5,6 +5,15 @@
 - PROXY 规则数：25402
 - REJECT 规则数：76173
 
+## 规则下载
+
+- **直链（DIRECT）规则**：
+  - [https://raw.githubusercontent.com/Knight4LHB/shadowrocket-rules/main/sr_direct_list.module](https://raw.githubusercontent.com/Knight4LHB/shadowrocket-rules/main/sr_direct_list.module)
+- **代理（PROXY）规则**：
+  - [https://raw.githubusercontent.com/Knight4LHB/shadowrocket-rules/main/sr_proxy_list.module](https://raw.githubusercontent.com/Knight4LHB/shadowrocket-rules/main/sr_proxy_list.module)
+- **屏蔽（REJECT）规则**：
+  - [https://raw.githubusercontent.com/Knight4LHB/shadowrocket-rules/main/sr_reject_list.module](https://raw.githubusercontent.com/Knight4LHB/shadowrocket-rules/main/sr_reject_list.module)
+
 ## 数据来源
 
 - https://github.com/felixonmars/dnsmasq-china-list
